@@ -1,0 +1,2 @@
+const date: any ="1399/06/08"
+console.log(date.replaceAll('/','_'))
